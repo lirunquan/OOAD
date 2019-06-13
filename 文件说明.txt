@@ -1,0 +1,11 @@
+问题描述、领域类图、活动图、用况图（用况描述）：
+http://202.116.161.68/moodle/blog/index.php?entryid=1873
+分析类图：
+ http://202.116.161.68/moodle/blog/index.php?entryid=1877
+
+顺序图：
+http://202.116.161.68/moodle/blog/index.php?entryid=1880
+设计类图：
+http://202.116.161.68/moodle/blog/index.php?userid=6198
+
+打开源文档软件：StarUML 版本：3.1.0
